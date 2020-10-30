@@ -1,0 +1,4 @@
+[0201/231624.914:ERROR:process_info.cc(359)] UncheckedAllocate
+[0201/231628.475:ERROR:process_info.cc(359)] UncheckedAllocate
+[0201/231633.195:ERROR:process_info.cc(359)] UncheckedAllocate
+[0223/205710.026:ERROR:crash_report_database_win.cc(428)] unexpected header
